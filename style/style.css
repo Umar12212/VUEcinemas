@@ -74,7 +74,7 @@ body {
 
 .header__list {
    display: flex;
-   gap: 18px;
+   gap: 10px;
 }
 
 .header__link {
